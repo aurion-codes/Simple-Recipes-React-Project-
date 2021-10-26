@@ -1,380 +1,359 @@
- "recipe": [
+{
+  "recipe": [
     {
       "id": 1,
       "name": "Baked Ziti",
-      "ingrediants": "For the meat sauce:
-      3 pounds ground chuck
-      3 cloves garlic, minced
-      1 large onion, chopped
-      1 tablespoon basil
-      1 tablespoon oregano
-      1 tablespoon salt
-      1 12-ounce can tomato paste
-      12 ounces water To assemble lasagna:
-      Mozzarella and provolone cheese, sliced
-      6 lasagna noodles
-      Pepperoni",
-      "instructions":"Directions
-      For the meat sauce:
-      In a heavy skillet, slowly brown ground chuck. Spoon off fat.
-      
-      Add remaining ingredients. Simmer one hour, stirring occasionally.
-      
-      For the cheese filling:
-      Mix together cottage cheese, Parmesan cheese, parsley and eggs.
-      
-      To assemble lasagna:
-      Preheat oven to 350 F.
-      
-      Cook lasagna noodles according to package directions. Drain.
-      
-      Grease a 9-by-13-inch baking dish.
-      
-      Place half the cooked noodles in baking dish. Spread with half the cheese filling and layer with sliced provolone cheese.
-      
-      Add half the meat sauce.
-      
-      Repeat layers, topping with mozzarella to cover entirely. 
-      
-      Top with sliced pepperoni.
-      
-      Bake for 1 hour. Let stand 10 minutes before serving.",
-      "image": url,
-      "calroies":,
-      
+      "ingrediants": "For the meat sauce
+          3 pounds ground chuck
+          3 cloves garlic, 
+          1 large onion chopped
+          1 tablespoon basil
+          1 tablespoon oregano
+          1 tablespoon salt
+          1 12-ounce can tomato paste
+          12 ounces water To assemble lasagna
+          Mozzarella and provolone cheese
+          6 lasagna noodles",
+      "instructions":" For the meat sauce
+          In a heavy skillet, slowly brown ground chuck. Spoon off fat.
+          Add remaining ingredients. Simmer one hour, stirring occasionally.
+          For the cheese filling:
+          Mix together cottage cheese paramesan, cheese parsley and eggs.
+          To assemble lasagna:
+          Preheat oven to 350 F.
+          Cook lasagna noodles according to package directions. Drain.
+          Grease a 9-by-13-inch baking dish.
+          Place half the cooked noodles in baking dish. Spread with half the cheese filling and layer with sliced provolone cheese.
+          Add half the meat sauce.
+          Repeat layers topping with mozzarella to cover entirely. 
+          Top with sliced pepperoni.
+          Bake for 1 hour. Let stand 10 minutes before serving.",
+      "image": "https://www.jocooks.com/wp-content/uploads/2019/05/baked-ziti-1-15-768x576.jpg",
+      "calories": 540
     },
 
     {
-      "id":"2",
+      "id":2,
       "name":"Baked Ziti",
       "ingredients": "1/2 lb Italian sausage
-      16 ounces ziti
-      2 28 ounce cans crushed tomatoes
-      2 TBS tomato paste
-      1/2 cup merlot optional
-      1 bell pepper finely diced
-      1 onion finely diced
-      2 garlic cloves minced
-      1 tsp granulated sugar
-      3 fresh basil leaves chiffonade
-      1 TBS oregano
-      1 tsp fennel seeds
-      15 oz ricotta cheese
-      2 cups mozzarella cheese shredded
-      1 cup parmesan cheese shredded or grated
-      Salt and pepper to taste",
+          16 ounces ziti
+          2 28 ounce cans crushed tomatoes
+          2 TBS tomato paste
+          1/2 cup merlot optional
+          1 bell pepper finely diced
+          1 onion finely diced
+          2 garlic cloves minced
+          1 tsp granulated sugar
+          3 fresh basil leaves chiffonade
+          1 TBS oregano
+          1 tsp fennel seeds
+          15 oz ricotta cheese
+          2 cups mozzarella cheese shredded
+          1 cup parmesan cheese shredded or grated
+          Salt and pepper to taste",
      "instructions":"Preheat oven to 375°F
-    Brown ground beef and sausage
-    Drain off the fat
-    Add in the onions, Bell peppers, and garlic and stir for 3 mins.
-    Pour in the merlot.
-    Simmer for 2 minutes.
-    Add the crushed tomatoes, tomato paste, sugar, oregano, fennel seeds, and half of the basil.
-    Salt and pepper to taste
-    Stir, reduce the heat to low, and simmer for 1 1/2 hours.
-    Prepare ziti according to package instructions
-    Drain and mix with the sauce.
-    Spray a 9×13 baking dish or lasagna pan with nonstick cooking spray.
-    Pour half of the ziti and sauce mixture into the pan.
-    Add half of the ricotta on top of the pasta and spread it out evenly.
-    In a separate bowl, toss the mozzarella and parmesan together.
-    Sprinkle half of the cheese mixture on top of the pasta.
-    Pour in the rest of the pasta/sauce mix
-    Then, add the rest of the ricotta in dollops.
-    Sprinkle the remain cheese on top evenly.
-    Bake, uncovered, for 40 minutes.
-    Garnish with the remaining chiffonade basil.
-    Allow it to cool for at least 20 minutes before serving.",
-    "image":"https://i1.wp.com/coopcancook.com/wp-content/uploads/2021/09/bmc_5336.jpg?resize=1536%2C1077&ssl=1"
+          Brown ground beef and sausage
+          Drain off the fat
+          Add in the onions, bell peppers and garlic and stir for 3 mins.
+          Pour in the merlot.
+          Simmer for 2 minutes.
+          Add the crushed tomatoes, tomato paste, sugar, oregano, fennel seeds, and half of the basil.
+          Salt and pepper to taste
+          Stir, reduce the heat to low, and simmer for 1 1/2 hours.
+          Prepare ziti according to package instructions
+          Drain and mix with the sauce.
+          Spray a 9×13 baking dish or lasagna pan with nonstick cooking spray.
+          Pour half of the ziti and sauce mixture into the pan.
+          Add half of the ricotta on top of the pasta and spread it out evenly.
+          In a separate bowl, toss the mozzarella and parmesan together.
+          Sprinkle half of the cheese mixture on top of the pasta.
+          Pour in the rest of the pasta/sauce mix
+          Then, add the rest of the ricotta in dollops.
+          Sprinkle the remain cheese on top evenly.
+          Bake, uncovered, for 40 minutes.
+          Garnish with the remaining chiffonade basil.
+          Allow it to cool for at least 20 minutes before serving.",
+      "image":"https://i1.wp.com/coopcancook.com/wp-content/uploads/2021/09/bmc_5336.jpg?resize=1536%2C1077&ssl=1",
+      "calories": 579
     },
 
     {
-      "id":"3"
-      "Name": "Guacamole"
-      "Image": "https://i0.wp.com/coopcancook.com/wp-content/uploads/2021/06/bmc_3780.jpg?resize=480%2C640&ssl=1"
+      "id":3,
+      "name": "Guacamole",
       "ingredients":"2 large ripe avocados
-      1/4 cup onion diced
-      1 tsp garlic minced
-      1 jalapeño diced
-      2 TBS fresh cilantro finely chopped
-      Juice from 1/2 of a lime
-      2 Roma tomatoes seeded and diced
-      Kosher salt to taste",
-      "instructions":"Using a Molcajete:
-      In a molcajete bowl, add in half of the onions, half of the jalapeños, half of the cilantro, all of the garlic, and 1/2 tsp of salt.
-      Use the pestle to grind the ingredients into a paste.
-      Cut, peel, and pit the avocados and add them into the molcajete bowl.
-      Smash the avocado with the pestle, combining it with the paste until the desired consistency is reached. Be sure to leave chunks of avocado.
-      Add in the rest of the onions, jalapeños, cilantro, tomatoes, and lime juice.
-      Gently fold everything together.
-      Taste and add more salt as needed.
-      Using a regular mixing bowl:
-      Cut, peel, and pit the avocados and add them to your bowl.
-      Use a fork to smash up the avocados to your desired consistency.
-      Add all remaining ingredients and stir gently to combine.
-      Salt to taste.",
-      "Image": "https://i0.wp.com/coopcancook.com/wp-content/uploads/2021/06/bmc_3780.jpg?resize=480%2C640&ssl=1"
+          1/4 cup onion diced
+          1 tsp garlic minced
+          1 jalapeño diced
+          2 TBS fresh cilantro finely chopped
+          Juice from 1/2 of a lime
+          2 Roma tomatoes seeded and diced
+          Kosher salt to taste",
+      "instructions":"Using a Molcajete
+          In a molcajete bowl, add in half of the onions, half of the jalapeños, half of the cilantro, all of the garlic, and 1/2 tsp of salt.
+          Use the pestle to grind the ingredients into a paste.
+          Cut, peel, and pit the avocados and add them into the molcajete bowl.
+          Smash the avocado with the pestle, combining it with the paste until the desired consistency is reached. Be sure to leave chunks of avocado.
+          Add in the rest of the onions, jalapeños, cilantro, tomatoes, and lime juice.
+          Gently fold everything together.
+          Taste and add more salt as needed.
+          Using a regular mixing bowl
+          Cut, peel, and pit the avocados and add them to your bowl.
+          Use a fork to smash up the avocados to your desired consistency.
+          Add all remaining ingredients and stir gently to combine.
+          Salt to taste.",
+      "image":"https://i0.wp.com/coopcancook.com/wp-content/uploads/2021/06/bmc_3780.jpg?resize=480%2C640&ssl=1",
+      "calories": 430
       
     },
 
     {
-      "Id":"4",
-    "Name": "Chicken Pot Pie",
-    "Ingredients":2 (9) inch pie crusts
-    3 T butter
-    1/3 cup chopped onions
-    1 chopped celery stalk
-    1 tsp minced garlic
-    3 T all purpose flour
-    1 1/2 cups chicken stock or broth
-    1 T onion powder
-    1 T garlic powder
-    1 tsp Italian seasoning
-    1/2 cup heavy cream
-    2 cup cooked, shredded chicken
-    12 oz pkg frozen peas and carrots
-    1 egg
-1 tsp water
-salt and pepper to taste
- 
-“Instructions”: “Preheat oven to 400 degrees F
-Melt butter in a saucepan
-Saute onions and celery in the butter until translucent; about 5 mins
-Add garlic and saute for 1 min.
-Sprinkle in flour and stir for 2 mins to cook out flour taste
-Pour in the chicken stock and add in Italian seasoning, onion, & garlic powders
-Simmer for 5 mins
-Stir in the heavy cream
-Salt and pepper to taste
-Cook until mixture thickens
-Turn off the heat
-Add in the chicken, peas, and carrots
-Roll out one pie crust to 1 cm thickness and add it to the bottom of a greased, 9 inch pie plate
-Pour filling into the pie dish on top of the crust
-Roll out the other crust and top the filling. Press to seal the edges
-Whisk egg and water together and brush the top of the crust with it.
-Cut several slits in the top of the pie to vent
-Bake for 30-35 mins or until golden brown
-Allow 10 mins to cool before serving
-”
-“Image”: “https://i2.wp.com/coopcancook.com/wp-content/uploads/2018/01/cppig.jpg?w=2280&ssl=1”
- 
- 
-“Id”:"5"
-“Name”: “Shrimps Creole”
-“Ingredients”:”2-3 lbs 21-30 count shrimp
-2 tsp liquid crab boil (optional)
-1 T olive oil
-4 T butter
-1/2 cup diced onion
-1 diced bell pepper
-2 diced celery stalks
-2 tsp minced garlic
-2 T all purpose flour*
-1/2 cup dry white wine
-1 1/2 cup shrimp stock
-28 oz tomato sauce*
-2 tsp Worcestershire sauce
-14.5 oz can petit diced tomatoes (drained)
-2 bay leaves
-1 tsp thyme leaves
-2 tsp granulated sugar
-1 T onion powder
-1 T garlic powder
-Creole seasoning to taste
-parsley or green onions to garnish
-”
-"Instructions":"Heat olive oil in a heavy bottom pot or Dutch oven
-Add in onions, bell peppers, and celery
-Saute until translucent
-Add in the minced garlic and saute for 30 secs.
-Sprinkle in flour and stir for 1 min
-Pour in the wine and stock
-Simmer for 5 mins
-Add in all remaining ingredients except for the shrimp, liquid crab boil, and Creole seasoning
-Stir, cover, and simmer on low for 30 mins
-Season to taste
-Toss the shrimp in the crab boil and add them into the pot
-Stir until the shrimp are pink and fully cooked; about 5 mins
-Serve over warm rice and garnish with green onions or parsley
-”
-“image”:”https://i2.wp.com/coopcancook.com/wp-content/uploads/2018/05/creig.jpg?w=2280&ssl=1”
- 
- 
-“Id”:”6”
-“Name”:”Baked Mac And Cheese”
-“Ingredients”:”1 or 1 1/2 pounds elbow macaroni
-4 qt chicken broth
-2 TBS butter
-12 oz can evaporated milk
-1 cup half and half
-1 tsp onion powder
-2 tsp salt
-2 tsp white pepper
-1 cup shredded American cheese
-1/2 cup shredded Colby Jack cheese
-1 cup shredded Mozzarella cheese
-1 cup shredded Muenster cheese
-1/2 cup shredded Cheddar cheese
-”
-“Instructions”:”Preheat oven to 375 F
-Pour broth in a large pot
-Bring to a boil
-Stir in the elbow macaroni and cook according to package instructions until al dente.
-Drain macaroni. Do NOT rinse.
-Pour macaroni back into the pot; heat off
-Stir in the butter until it melts
-Pour in the evaporated milk and half and half.
-Turn heat back on medium.
-Bring mixture to a simmer
-Add in the salt, onion powder, and white pepper.
-Stir in all of the American cheese and half of the rest of the cheeses EXCEPT the cheddar cheese.
-Once cheese melts, turn off the heat.
-Butter a 9×13* baking dish.
-Pour the macaroni into the dish in a single layer.
-Add the remaining cheese on top including the cheddar cheese.
-Bake for 30-35 or until the cheese is as brown on top as you’d like.
-Allow it to rest for 10 minutes.
-”
-“Image”: “https://i2.wp.com/coopcancook.com/wp-content/uploads/2019/10/Photo-Sep-02-1-05-55-PM.jpg?w=1815&ssl=1”
- 
-“Id”:”7”
-“name”:”Cajun Shrimp Alfredo”
-“Ingredients”:”1 lb raw large shrimp Don’t use those baby, salad shrimp in my dang recipe!
-3/4 of a 16oz pkg of Fettuccine pasta cooked**
-2 tsp Cajun seasoning
-1 tsp onion powder
-1 tsp garlic powder
-1 tsp Herbes de Provence or Italian seasoning
-1 tsp paprika
-1/2 tsp lemon pepper
-1 TBS olive oil
-2 TBS butter
-1 tsp minced garlic
-1/3 cup white wine I use Chardonnay or chicken broth
-2 cups heavy whipping cream
-2/3 cup grated Parmesan cheese
-Salt and pepper to taste
-Fresh parsley to garnish
-”
-“Instructions”:”Season the shrimp with the onion powder, garlic powder, Herbes de Provence or Italian seasoning, lemon pepper, paprika, and 1 tsp of the Cajun seasoning.
-In a pan, heat the olive oil over medium high heat
-Add in the shrimp and cook until they are pink. (Do not over cook.)
-Remove the shrimp and tint with foil to keep warm
-Add the butter to the same pan.
-Once it melts, add in the garlic and sauté for 30 secs
-Pour in the wine and stir to deglaze the pan
-After the wine reduces, pour in the heavy cream.
-Bring it to a simmer.
-Add in the Parmesan cheese and the other tsp of Cajun seasoning
-Turn the heat to low and allow the sauce to simmer for 5-6 mins.
-Taste and adjusting seasoning as needed
-Add the cooked pasta and shrimp (optional) to the sauce and toss well to coat.
-Garnish with fresh parsley”
-"image":”https://i2.wp.com/coopcancook.com/wp-content/uploads/2019/01/Photo-Jan-17-1-53-40-PM.jpg?w=2280&ssl=1”
- 
- 
- 
-"Id": "8"
-"Name":"Crawfish Balls"
-"Ingredients":"1 lb frozen crawfish tails thawed
-1/2 stick unsalted butter
-1/3 cup finely diced onion
-1/3 cup finely diced bell pepper
-2 stalks diced celery
-1 TBS crushed garlic
-1/4 cup chopped green onions
-2 cups Italian style breadcrumbs
-1 TBS liquid crab and shrimp boil
-2 TBS Cajun or creole seasoning
-1 tsp onion powder
-2 eggs
-1/4 cup milk
-2 cups all purpose flour
-Oil for frying
-”
-“instructions”:”After thawing, drain the fat off of the crawfish; reserve the fat.
-Roughly chop the crawfish; set aside.
-Melt butter in a pan.
-Add in the onions, bell pepper, celery, and garlic.
-Sauté for 2-3 minutes
-Add in the crawfish fat, liquid crab boil, 1 TBS Cajun/creole seasoning, and onion powder.
-Stir and simmer for 3 minutes.
-Add in the crawfish tails and stir until crawfish are warm; about 2 minutes. Do not overcook.
-Turn off the heat and remove the pan from the stove.
-Stir in 1 cup of the breadcrumbs and all of the green onions into the mixture.
-Allow the mixture to cool to room temperature.
-Create a breading station by whisking the egg and milk in a bowl.
-Next, pour the flour in one shallow dish and mix 1 TBS of Cajun seasoning into the flour.
-Add the remaining 1 cup of breadcrumbs into another shallow dish.
-When the crawfish mixture has cooled, form it into 1 inch balls.
-Heat oil to 350°F for frying.
-Dredge each ball into the flour, then the egg wash, and finally into the breadcrumbs.
-Fry the balls for 3 mins or until golden brown.
-Drain on a wired rack."
-"image":"https://i0.wp.com/coopcancook.com/wp-content/uploads/2016/05/bmc_4523.jpg?resize=1536%2C1024&ssl=1"
- 
- 
- 
- 
- 
+      "id":4,
+      "name":"Chicken Pot Pie",
+      "ingredients": "9-inch pie crusts
+          3 T butter
+          1/3 cup chopped onions
+          1 chopped celery stalk
+          1 tsp minced garlic
+          3 T all purpose flour
+          1 1/2 cups chicken stock or broth
+          1 T onion powder
+          1 T garlic powder
+          1 tsp Italian seasoning
+          1/2 cup heavy cream
+          2 cup cooked, shredded chicken
+          12 oz pkg frozen peas and carrots
+          1 egg
+          1 tsp water
+          salt and pepper to taste",
+      "instructions": "Preheat oven to 400 degrees F
+          Melt butter in a saucepan
+          Saute onions and celery in the butter until translucent; about 5 mins
+          Add garlic and saute for 1 min.
+          Sprinkle in flour and stir for 2 mins to cook out flour taste
+          Pour in the chicken stock and add in Italian seasoning, onion, & garlic powders
+          Simmer for 5 mins
+          Stir in the heavy cream
+          Salt and pepper to taste
+          Cook until mixture thickens
+          Turn off the heat
+          Add in the chicken, peas, and carrots
+          Roll out one pie crust to 1 cm thickness and add it to the bottom of a greased, 9 inch pie plate
+          Pour filling into the pie dish on top of the crust
+          Roll out the other crust and top the filling. Press to seal the edges
+          Whisk egg and water together and brush the top of the crust with it.
+          Cut several slits in the top of the pie to vent
+          Bake for 30-35 mins or until golden brown
+          Allow 10 mins to cool before serving",
+      "image":"https://i2.wp.com/coopcancook.com/wp-content/uploads/2018/01/cppig.jpg?w=2280&ssl=1",
+      "calories":800
+    },
 
+    {
+      "id":5,
+      "name":"Shrimp Creole",
+      "ingredients":"2-3 lbs 21-30 count shrimp
+          2 tsp liquid crab boil
+          1 T olive oil
+          4 T butter
+          1/2 cup diced onion
+          1 diced bell pepper
+          2 diced celery stalks
+          2 tsp minced garlic
+          2 T all purpose flour*
+          1/2 cup dry white wine
+          1 1/2 cup shrimp stock
+          28 oz tomato sauce*
+          2 tsp Worcestershire sauce
+          14.5 oz can petit diced tomatoes drained
+          2 bay leaves
+          1 tsp thyme leaves
+          2 tsp granulated sugar
+          1 T onion powder
+          1 T garlic powder
+          Creole seasoning to taste
+          parsley or green onions to garnish",
+      "instructions":"Heat olive oil in a heavy bottom pot or Dutch oven
+          Add in onions, bell peppers, and celery
+          Saute until translucent
+          Add in the minced garlic and saute for 30 secs.
+          Sprinkle in flour and stir for 1 min
+          Pour in the wine and stock
+          Simmer for 5 mins
+          Add in all remaining ingredients except for the shrimp, liquid crab boil, and Creole seasoning
+          Stir, cover, and simmer on low for 30 mins
+          Season to taste
+          Toss the shrimp in the crab boil and add them into the pot
+          Stir until the shrimp are pink and fully cooked; about 5 mins
+          Serve over warm rice and garnish with green onions or parsley",
+      "image":"https://i2.wp.com/coopcancook.com/wp-content/uploads/2018/05/creig.jpg?w=2280&ssl=1"
+    }, 
 
+    {
+      "id":6,
+      "name":"Baked Mac And Cheese",
+      "ingredients":"1 or 1 1/2 pounds elbow macaroni
+          4 qt chicken broth
+          2 TBS butter
+          12 oz can evaporated milk
+          1 cup half and half
+          1 tsp onion powder
+          2 tsp salt
+          2 tsp white pepper
+          1 cup shredded American cheese
+          1/2 cup shredded Colby Jack cheese
+          1 cup shredded Mozzarella cheese
+          1 cup shredded Muenster cheese
+          1/2 cup shredded Cheddar cheese",
+      "instructions":"Preheat oven to 375 F
+          Pour broth in a large pot
+          Bring to a boil
+          Stir in the elbow macaroni and cook according to package instructions until al dente.
+          Drain macaroni. Do NOT rinse.
+          Pour macaroni back into the pot; heat off
+          Stir in the butter until it melts
+          Pour in the evaporated milk and half and half.
+          Turn heat back on medium.
+          Bring mixture to a simmer
+          Add in the salt, onion powder, and white pepper.
+          Stir in all of the American cheese and half of the rest of the cheeses EXCEPT the cheddar cheese.
+          Once cheese melts, turn off the heat.
+          Butter a 9×13* baking dish.
+          Pour the macaroni into the dish in a single layer.
+          Add the remaining cheese on top including the cheddar cheese.
+          Bake for 30-35 or until the cheese is as brown on top as you’d like.
+          Allow it to rest for 10 minutes.",
+      "image":"https://i2.wp.com/coopcancook.com/wp-content/uploads/2019/10/Photo-Sep-02-1-05-55-PM.jpg?w=1815&ssl=1",
+      "calories": 1200
+    },
 
-“Id”:”9”
-Name: Spring chicken tray bake with green vegetables 
-Ingredients:”
-2 peppers, deseeded and roughly chopped
-2 medium-sized sweet potatoes, cut into 2cm pieces
-1 red onion, finely chopped
-2 courgettes, roughly chopped
-2tbsp extra virgin olive oil, plus extra to brush
-200g mushrooms, roughly chopped
-250g pack ready-to-eat puy lentils
-3tbsp green olive tapenade
-Small handful of fresh parsley or oregano, roughly chopped
-5 filo pastry sheets, each measuring about 32 x 38cm”
+    {
+      "id":7,
+      "name":"Cajun Shrimp Alfredo",
+      "ingredients":"1 lb raw large shrimp Don’t use those baby, salad shrimp in my dang recipe!
+          3/4 of a 16oz pkg of Fettuccine pasta cooked**
+          2 tsp Cajun seasoning
+          1 tsp onion powder
+          1 tsp garlic powder
+          1 tsp Herbes de Provence or Italian seasoning
+          1 tsp paprika
+          1/2 tsp lemon pepper
+          1 TBS olive oil
+          2 TBS butter
+          1 tsp minced garlic
+          1/3 cup white wine I use Chardonnay or chicken broth
+          2 cups heavy whipping cream
+          2/3 cup grated Parmesan cheese
+          Salt and pepper to taste
+          Fresh parsley to garnis",
+      "instructions":"Season the shrimp with the onion powder, garlic powder, Herbes de Provence or Italian seasoning, lemon pepper, paprika, and 1 tsp of the Cajun seasoning.
+          In a pan, heat the olive oil over medium high heat
+          Add in the shrimp and cook until they are pink. 
+          Remove the shrimp and tint with foil to keep warm
+          Add the butter to the same pan.
+          Once it melts, add in the garlic and sauté for 30 secs
+          Pour in the wine and stir to deglaze the pan
+          After the wine reduces, pour in the heavy cream.
+          Bring it to a simmer.
+          Add in the Parmesan cheese and the other tsp of Cajun seasoning
+          Turn the heat to low and allow the sauce to simmer for 5-6 mins.
+          Taste and adjusting seasoning as needed
+          Add the cooked pasta and shrimp to the sauce and toss well to coat.
+          Garnish with fresh parsley",
+      "image":"https://i2.wp.com/coopcancook.com/wp-content/uploads/2019/01/Photo-Jan-17-1-53-40-PM.jpg?w=2280&ssl=1",
+      "calories":1200
+    },
 
-“Instructions”:”
-Heat the oven to 200°C or Gas Mark 6. Put the peppers, sweet potato, onion and courgettes in a large roasting tin. Toss through the oil and season well. Roast the vegetables in the oven for 15 mins, turning them to coat. Add the mushrooms and cook for 15 mins more. Set aside to cool completely.
-Rinse the lentils and stir through the tapenade and parsley or oregano. Check the seasoning and gently mix with the roasted vegetables.
-Heat the oven to 200°C or Gas Mark 6. Brush one side of each sheet of filo pastry with oil then arrange, oil-side down, in the springform tin, leaving no gaps at the base or sides (let the excess filo hang over the edges).
-Spoon the vegetable filling into the pastry and press down firmly to level. Cover the filling with the overhanging pastry, scrunching it up. Bake the pie in the oven for 20 mins, then unclip and remove the metal rim. Bake for 10-15 mins more, until deep golden.
+    {
+      "id":8,
+      "name":"Crawfish Balls",
+      "ingredients":"1 lb frozen crawfish tails thawed
+          1/2 stick unsalted butter
+          1/3 cup finely diced onion
+          1/3 cup finely diced bell pepper
+          2 stalks diced celery
+          1 TBS crushed garlic
+          1/4 cup chopped green onions
+          2 cups Italian style breadcrumbs
+          1 TBS liquid crab and shrimp boil
+          2 TBS Cajun or creole seasoning
+          1 tsp onion powder
+          2 eggs
+          1/4 cup milk
+          2 cups all purpose flour
+          Oil for frying",
+      "instructions":"After thawing, drain the fat off of the crawfish; reserve the fat.
+          Roughly chop the crawfish; set aside.
+          Melt butter in a pan.
+          Add in the onions, bell pepper, celery, and garlic.
+          Sauté for 2-3 minutes
+          Add in the crawfish fat, liquid crab boil, 1 TBS Cajun/creole seasoning, and onion powder.
+          Stir and simmer for 3 minutes.
+          Add in the crawfish tails and stir until crawfish are warm; about 2 minutes. Do not overcook.
+          Turn off the heat and remove the pan from the stove.
+          Stir in 1 cup of the breadcrumbs and all of the green onions into the mixture.
+          Allow the mixture to cool to room temperature.
+          Create a breading station by whisking the egg and milk in a bowl.
+          Next, pour the flour in one shallow dish and mix 1 TBS of Cajun seasoning into the flour.
+          Add the remaining 1 cup of breadcrumbs into another shallow dish.
+          When the crawfish mixture has cooled, form it into 1 inch balls.
+          Heat oil to 350°F for frying.
+          Dredge each ball into the flour, then the egg wash, and finally into the breadcrumbs.
+          Fry the balls for 3 mins or until golden brown.
+          Drain on a wired rack.",
+        "image":"https://i0.wp.com/coopcancook.com/wp-content/uploads/2016/05/bmc_4523.jpg?resize=1536%2C1024&ssl=1",
+        "calories":400
+    },
 
-“Image”:”https://keyassets-p2.timeincuk.net/wp/prod/wp-content/uploads/sites/63/2017/04/vegetarian-filo-pie-scaled.jpg”
-“Calories”:”303”
+    {
+      "id":9,
+      "name":"Spring Chicken Tray With Green Vegetables",
+      "ingredients": "2 peppers, deseeded and roughly chopped
+          2 medium-sized sweet potatoes, cut into 2cm pieces
+          1 red onion, finely chopped
+          2 courgettes, roughly chopped
+          2tbsp extra virgin olive oil, plus extra to brush
+          200g mushrooms, roughly chopped
+          250g pack ready-to-eat puy lentils
+          3tbsp green olive tapenade
+          Small handful of fresh parsley or oregano, roughly chopped,
+          5 filo pastry sheets, each measuring about 32 x 38cm",
+      "instructions":"Heat the oven to 200°C or Gas Mark 6. Put the peppers, sweet potato, onion and courgettes in a large roasting tin. Toss through the oil and season well. Roast the vegetables in the oven for 15 mins, turning them to coat. Add the mushrooms and cook for 15 mins more. Set aside to cool completely.
+          Rinse the lentils and stir through the tapenade and parsley or oregano. Check the seasoning and gently mix with the roasted vegetables.
+          Heat the oven to 200°C or Gas Mark 6. Brush one side of each sheet of filo pastry with oil then arrange, oil-side down, in the springform tin, leaving no gaps at the base or sides let the excess filo hang over the edges.
+          Spoon the vegetable filling into the pastry and press down firmly to level. Cover the filling with the overhanging pastry, scrunching it up. Bake the pie in the oven for 20 mins, then unclip and remove the metal rim. Bake for 10-15 mins more, until deep golden.",
+      "image":"https://keyassets-p2.timeincuk.net/wp/prod/wp-content/uploads/sites/63/2017/04/vegetarian-filo-pie-scaled.jpg",
+      "calories":303
+    },
 
-“Id”: “10”
-	“Name”:”spring chciken tray bake with green vegatables”
-	“Ingredients”:”
-2tbsp olive oil
-6 small skin-on chicken thighs
-150ml chicken stock
-6 spring onions
-100g Tenderstem broccoli
-100g sugar snaps
-1 lemon, quartered
-small handful oregano
-500g new potatoes, to serve
- 
-	“Instructions”:
- “Heat the oven to 180C, gas 4. Heat the oil in a flameproof and ovenproof dish on the hob until hot. Carefully add the chicken thighs, skin side down, and cook for 4-5 minutes until golden and crisp.
-Remove from the hob and carefully pour over the stock and place in the oven for 15 minutes.
-Remove the chicken from the oven and add the vegetables and lemon quarters to the pan, making sure to coat them in the stock, and season well. Return to the oven for 10 minutes, until the chicken is cooked through and the vegetables are just tender. Scatter with oregano and serve with new potatoes.
- 
-	“Image”: “https://keyassets-p2.timeincuk.net/wp/prod/wp-content/uploads/sites/63/2016/05/spring-chicken-traybake-1024x647.jpg”
-	“Calories”: “270” 
+    {
+      "id": 10,
+	    "name":"spring chciken tray bake with green vegatables",
+	    "ingredients":"2 tbsp olive oil
+          6 small skin-on chicken thighs
+          150ml chicken stock
+          6 spring onions
+          100g Tenderstem broccoli
+          100g sugar snaps
+          1 lemon quartered
+          small handful oregano
+          500g new potatoes to serve",
+      "instructions":"Heat the oven to 180C, gas 4. Heat the oil in a flameproof and ovenproof dish on the hob until hot. Carefully add  the chicken thighs, skin side down, and cook for 4-5 minutes until golden and crisp.
+          Remove from the hob and carefully pour over the stock and place in the oven for 15 minutes.
+          Remove the chicken from the oven and add the vegetables and lemon quarters to the pan, making sure to coat them in the stock, and season well. Return to the oven for 10 minutes, until the chicken is cooked through and the vegetables are just tender. Scatter with oregano and serve with new potatoes.",
+    	"image":"https://keyassets-p2.timeincuk.net/wp/prod/wp-content/uploads/sites/63/2016/05/spring-chicken-traybake-1024x647.jpg",
+	    "Calories":270
+    },
 
-	“Id”: “11”
-	“Name”: “wholewheat spaghetti with roasted veg”
-	“Ingredients”:”
-4 baby aubergines, quartered
-2 courgettes, sliced
-4tbsp olive oil
-500g wholewheat spaghetti
-Zest and juice 2 lemons
-1⁄2 x 30g packet basil
-1⁄2 x 30g packet mint”
+    {
+      "id": 11,
+	    "name":"Wholewheat Spaghetti with Roasted Veg”,
+	    "ingredients":" 4 baby aubergines, quartered
+          2 courgettes, sliced
+          4tbsp olive oil
+          500g wholewheat spaghetti
+          Zest and juice 2 lemons
+          1⁄2 x 30g packet basil
+          1⁄2 x 30g packet mint”
 
 	“Instructions”:”
 Heat the oven to 200C, gas 6. Toss the veg in 2tbsp olive oil and put onto a lined baking tray. Roast for 10-15 mins until just crisp. Remove from the oven and allow to cool.
@@ -485,7 +464,7 @@ Drain the pasta, reserving a little water in the pan, put the pasta back in the 
 “Image”: “https://keyassets-p2.timeincuk.net/wp/prod/wp-content/uploads/sites/63/2018/07/Lemony-tagliatelle-with-meatballs-scaled.jpg”
 “calories”:”350”
 	
-	
+    
 	
 	
 
