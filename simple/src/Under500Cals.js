@@ -8,28 +8,15 @@ function Home({food}){
 
 
 return(
-<li>
         <div >
             <img width='200px'
-              src ={food.image}
+              src ={skinny.image}
               alt={food.name}
               />
-             <p>{food.calories5}<p>
+             <p>{food.calories5}</p>
 
-            //   className=
-            //   onClick={handleClick}
-              
-              {/* <div className= "card__content">
-                <div className= "card__title">{}</div>
-                <p className="card__text">{? food.ingredients : food.instructions}</p>
-                <div className="card__detail">
-                    <p>{food.calories}<p>
-                    <p>
-                        Give us a like or dislike if you tried out the meal{" like or dislike button "}
-                    </p> */}
-                {/* </div> */}
         </div>
-    </li>
+   
 )
 }
    export default Home;
