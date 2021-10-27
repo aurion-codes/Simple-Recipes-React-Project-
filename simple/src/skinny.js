@@ -1,70 +1,5 @@
-{
-  "recipe": [
-    {
-      "id": 1,
-      "name": "Baked Ziti",
-      "ingredients": "For the meat sauce 3 pounds ground chuck 3 cloves garlic,  1 large onion chopped 1 tablespoon basil1 tablespoon oregano 1 tablespoon salt 1 12-ounce can tomato paste 12 ounces water To assemble lasagna Mozzarella and provolone cheese 6 lasagna noodles",
-      "instructions":" For the meat sauce In a heavy skillet, slowly brown ground chuck. Spoon off fat. Add remaining ingredients. Simmer one hour, stirring occasionally.For the cheese filling: Mix together cottage cheese paramesan, cheese parsley and eggs. To assemble lasagna: Preheat oven to 350 F. Cook lasagna noodles according to package directions. Drain. Grease a 9-by-13-inch baking dish. Place half the cooked noodles in baking dish. Spread with half the cheese filling and layer with sliced provolone cheese.Add half the meat sauce.Repeat layers topping with mozzarella to cover entirely. Top with sliced pepperoni. Bake for 1 hour. Let stand 10 minutes before serving.",
-      "image": "https://www.jocooks.com/wp-content/uploads/2019/05/baked-ziti-1-15-768x576.jpg",
-      "calories": 540
-    },
-
-    {
-      "id":2,
-      "name":"Baked Ziti",
-      "ingredients": "1/2 lb Italian sausage 16 ounces ziti  2 28 ounce cans crushed tomatoes2 TBS tomato paste  1/2 cup merlot optional 1 bell pepper finely diced 1 onion finely diced2 garlic cloves minced  1 tsp granulated sugar 3 fresh basil leaves chiffonade 1 TBS oregano  1 tsp fennel seeds 15 oz ricotta cheese 2 cups mozzarella cheese shredded  1 cup parmesan cheese shredded or grated Salt and pepper to taste",
-     "instructions":"Preheat oven to 375°F Brown ground beef and sausage  Drain off the fat Add in the onions, bell peppers and garlic and stir for 3 mins.Pour in the merlot.Simmer for 2 minutes. Add the crushed tomatoes, tomato paste, sugar, oregano, fennel seeds, and half of the basil.Salt and pepper to tasteStir, reduce the heat to low, and simmer for 1 1/2 hours.Prepare ziti according to package instructionsDrain and mix with the sauce. Spray a 9×13 baking dish or lasagna pan with nonstick cooking spray.Pour half of the ziti and sauce mixture into the pan.Add half of the ricotta on top of the pasta and spread it out evenly.In a separate bowl, toss the mozzarella and parmesan together. Sprinkle half of the cheese mixture on top of the pasta. Pour in the rest of the pasta/sauce mixThen, add the rest of the ricotta in dollops. Sprinkle the remain cheese on top evenly.Bake, uncovered, for 40 minutes.Garnish with the remaining chiffonade basil. Allow it to cool for at least 20 minutes before serving.",
-      "image":"https://i1.wp.com/coopcancook.com/wp-content/uploads/2021/09/bmc_5336.jpg?resize=1536%2C1077&ssl=1",
-      "calories": 579
-    },
-
-    {
-      "id":3,
-      "name": "Guacamole",
-      "ingredients":"2 large ripe avocados 1/4 cup onion diced 1 tsp garlic minced 1 jalapeño diced 2 TBS fresh cilantro finely chopped  Juice from 1/2 of a lime 2 Roma tomatoes seeded and diced  Kosher salt to taste",
-      "instructions":"Using a Molcajete In a molcajete bowl, add in half of the onions, half of the jalapeños, half of the cilantro, all of the garlic, and 1/2 tsp of salt.Use the pestle to grind the ingredients into a paste. Cut, peel, and pit the avocados and add them into the molcajete bowl. Smash the avocado with the pestle, combining it with the paste until the desired consistency is reached. Be sure to leave chunks of avocado. Add in the rest of the onions, jalapeños, cilantro, tomatoes, and lime juice.Gently fold everything together.Taste and add more salt as needed. Using a regular mixing bowlCut, peel, and pit the avocados and add them to your bowl.Use a fork to smash up the avocados to your desired consistency.  Add all remaining ingredients and stir gently to combine.Salt to taste.",
-      "image":"https://i0.wp.com/coopcancook.com/wp-content/uploads/2021/06/bmc_3780.jpg?resize=480%2C640&ssl=1",
-      "calories": 430
-      
-    },
-
-    {
-      "id":4,
-      "name":"Chicken Pot Pie",
-      "ingredients": "9-inch pie crusts 3 T butter 1/3 cup chopped onions 1 chopped celery stalk 1 tsp minced garlic 3 T all purpose flour 1 1/2 cups chicken stock or broth 1 T onion powder 1 T garlic powder1 tsp Italian seasoning 1/2 cup heavy cream 2 cup cooked, shredded chicken 12 oz pkg frozen peas and carrots1 egg 1 tsp water salt and pepper to taste",
-      "instructions": "Preheat oven to 400 degrees F  Melt butter in a saucepan Saute onions and celery in the butter until translucent; about 5 mins  Add garlic and saute for 1 min.Sprinkle in flour and stir for 2 mins to cook out flour tastePour in the chicken stock and add in Italian seasoning, onion, & garlic powders Simmer for 5 minsStir in the heavy cream Salt and pepper to tasteCook until mixture thickens Turn off the heatAdd in the chicken, peas, and carrots  Roll out one pie crust to 1 cm thickness and add it to the bottom of a greased, 9 inch pie plate Pour filling into the pie dish on top of the crustRoll out the other crust and top the filling. Press to seal the edges Whisk egg and water together and brush the top of the crust with it.Cut several slits in the top of the pie to vent  Bake for 30-35 mins or until golden brownAllow 10 mins to cool before serving",
-      "image":"https://i2.wp.com/coopcancook.com/wp-content/uploads/2018/01/cppig.jpg?w=2280&ssl=1",
-      "calories":800
-    },
-
-    {
-      "id":5,
-      "name":"Shrimp Creole",
-      "ingredients":"2-3 lbs 21-30 count shrimp 2 tsp liquid crab boil 1 T olive oil4 T butter 1/2 cup diced onion1 diced bell pepper 2 diced celery stalks 2 tsp minced garlic 2 T all purpose flour* 1/2 cup dry white wine 1 1/2 cup shrimp stock 28 oz tomato sauce*2 tsp Worcestershire sauce 14.5 oz can petit diced tomatoes drained2 bay leaves1 tsp thyme leaves 2 tsp granulated sugar1 T onion powder 1 T garlic powder Creole seasoning to tasteparsley or green onions to garnish",
-      "instructions":"Heat olive oil in a heavy bottom pot or Dutch ovenAdd in onions, bell peppers, and celerySaute until translucent Add in the minced garlic and saute for 30 secs.Sprinkle in flour and stir for 1 min  Pour in the wine and stock Simmer for 5 mins Add in all remaining ingredients except for the shrimp, liquid crab boil, and Creole seasoning Stir, cover, and simmer on low for 30 mins  Season to taste Toss the shrimp in the crab boil and add them into the pot Stir until the shrimp are pink and fully cooked; about 5 minsServe over warm rice and garnish with green onions or parsley",
-      "image":"https://i2.wp.com/coopcancook.com/wp-content/uploads/2018/05/creig.jpg?w=2280&ssl=1"
-    }, 
-
-    {
-      "id":6,
-      "name":"Baked Mac And Cheese",
-      "ingredients":"1 or 1 1/2 pounds elbow macaroni4 qt chicken broth2 TBS butter12 oz can evaporated milk1 cup half and half 1 tsp onion powder 2 tsp salt2 tsp white pepper 1 cup shredded American cheese 1/2 cup shredded Colby Jack cheese 1 cup shredded Mozzarella cheese1 cup shredded Muenster cheese1/2 cup shredded Cheddar cheese",
-      "instructions":"Preheat oven to 375 F Pour broth in a large pot  Bring to a boil Stir in the elbow macaroni and cook according to package instructions until al dente. Drain macaroni. Do NOT rinse. Pour macaroni back into the pot; heat offStir in the butter until it melts Pour in the evaporated milk and half and half. Turn heat back on medium.  Bring mixture to a simmer Add in the salt, onion powder, and white pepper.Stir in all of the American cheese and half of the rest of the cheeses EXCEPT the cheddar cheese. Once cheese melts, turn off the heat.Butter a 9×13* baking dish.Pour the macaroni into the dish in a single layer. Add the remaining cheese on top including the cheddar cheese.Bake for 30-35 or until the cheese is as brown on top as you’d like.Allow it to rest for 10 minutes.",
-      "image":"https://i2.wp.com/coopcancook.com/wp-content/uploads/2019/10/Photo-Sep-02-1-05-55-PM.jpg?w=1815&ssl=1",
-      "calories": 1200
-    },
-
-    {
-      "id":7,
-      "name":"Cajun Shrimp Alfredo",
-      "ingredients":"1 lb raw large shrimp Don’t use those baby, salad shrimp in my dang recipe! 3/4 of a 16oz pkg of Fettuccine pasta cooked** 2 tsp Cajun seasoning1 tsp onion powder 1 tsp garlic powder 1 tsp Herbes de Provence or Italian seasoning  1 tsp paprika 1/2 tsp lemon pepper 1 TBS olive oil  2 TBS butter  1 tsp minced garlic 1/3 cup white wine I use Chardonnay or chicken broth 2 cups heavy whipping cream 2/3 cup grated Parmesan cheese Salt and pepper to tasteFresh parsley to garnis",
-      "instructions":"Season the shrimp with the onion powder, garlic powder, Herbes de Provence or Italian seasoning, lemon pepper, paprika, and 1 tsp of the Cajun seasoning. In a pan, heat the olive oil over medium high heat Add in the shrimp and cook until they are pink.  Remove the shrimp and tint with foil to keep warm Add the butter to the same pan. Once it melts, add in the garlic and sauté for 30 secs Pour in the wine and stir to deglaze the panAfter the wine reduces, pour in the heavy cream.Bring it to a simmer.Add in the Parmesan cheese and the other tsp of Cajun seasoningTurn the heat to low and allow the sauce to simmer for 5-6 mins. Taste and adjusting seasoning as needed Add the cooked pasta and shrimp to the sauce and toss well to coat.Garnish with fresh parsley",
-      "image":"https://i2.wp.com/coopcancook.com/wp-content/uploads/2019/01/Photo-Jan-17-1-53-40-PM.jpg?w=2280&ssl=1",
-      "calories":1200
-    },
-
-    {
-      "id":8,
+const skinny={
+    "id":8,
       "name":"Crawfish Balls",
       "ingredients":"1 lb frozen crawfish tails thawed 1/2 stick unsalted butter 1/3 cup finely diced onion1/3 cup finely diced bell pepper 2 stalks diced celery1 TBS crushed garlic1/4 cup chopped green onions 2 cups Italian style breadcrumbs 1 TBS liquid crab and shrimp boil 2 TBS Cajun or creole seasoning 1 tsp onion powder 2 eggs 1/4 cup milk 2 cups all purpose flourOil for frying",
       "instructions":"After thawing, drain the fat off of the crawfish; reserve the fat. Roughly chop the crawfish; set aside.Melt butter in a pan. Add in the onions, bell pepper, celery, and garlic.Sauté for 2-3 minutesAdd in the crawfish fat, liquid crab boil, 1 TBS Cajun/creole seasoning, and onion powder. Stir and simmer for 3 minutes.Add in the crawfish tails and stir until crawfish are warm; about 2 minutes. Do not overcook.Turn off the heat and remove the pan from the stove. Stir in 1 cup of the breadcrumbs and all of the green onions into the mixture.Allow the mixture to cool to room temperature.Create a breading station by whisking the egg and milk in a bowl. Next, pour the flour in one shallow dish and mix 1 TBS of Cajun seasoning into the flour. Add the remaining 1 cup of breadcrumbs into another shallow dish. When the crawfish mixture has cooled, form it into 1 inch balls. Heat oil to 350°F for frying. Dredge each ball into the flour, then the egg wash, and finally into the breadcrumbs.Fry the balls for 3 mins or until golden brown. Drain on a wired rack.",
@@ -98,7 +33,7 @@
       "calories": 379
     },
     {
-      "is": 2,
+      "is": 12,
       "name":"Lemon chicken and rice stir fry",
       "ingrediants":"200g chicken, cut into small strips, 1tbsp sunflower oil,200g cooked rice pouch,100g frozen peas,100g sugar snaps,100g sweetcorn or baby corn chopped,1-2 spring onions,chopped 1tbsp sesame seeds",
       "instructions":"Put all the marinade ingredients into a non-metallic bowl and add the chicken. Leave to marinate, until ready to cook.Add the oil to a wok or deep frying pan and fry the chicken. Reserve the marinade. Stir-fry for 3-4 mins, then add the veg and stir-fry for a further 2-3 mins.Add the rice and the reserved marinade, along with 2-3tbsp water and stir-fry until piping hot. Toss the spring onion through the rice and serve sprinkled with the sesame seeds.",
@@ -129,10 +64,3 @@
       "image":"https://keyassets-p2.timeincuk.net/wp/prod/wp-content/uploads/sites/63/2018/07/Lemony-tagliatelle-with-meatballs-scaled.jpg",
       "calories":"350"
     }
-  ]
-}
-	
-    
-	
-	
-

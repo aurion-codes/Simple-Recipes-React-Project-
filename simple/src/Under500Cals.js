@@ -1,42 +1,35 @@
 import React, { useState } from "react"
-import RecipeList from "./RecipeList";
+// import RecipeList from "./RecipeList";
 
-const[foods, setfoods]= useState ()
 
-function Home(){
 
-function handleLikes({
+function Home({food}){
+    console.log(food,"third")
 
-})
-
-functionDislikes (){
-
-}
-function handleClick(){
-
-}
 
 return(
-    <li className="cards__items">
-        <div className="card">
-            <img
-              src ={recipe.image}
-              alt={recipe.name}
-              className=
-              onClick={handleClick}
+<li>
+        <div >
+            <img width='200px'
+              src ={food.image}
+              alt={food.name}
               />
-              <div className= "card__content">
+             <p>{food.calories5}<p>
+
+            //   className=
+            //   onClick={handleClick}
+              
+              {/* <div className= "card__content">
                 <div className= "card__title">{}</div>
-                <p className="card__text">{? recipe.ingrediants : recipe.instructions}</p>
+                <p className="card__text">{? food.ingredients : food.instructions}</p>
                 <div className="card__detail">
-                    <p>{recipe.calories}<p>
+                    <p>{food.calories}<p>
                     <p>
                         Give us a like or dislike if you tried out the meal{" like or dislike button "}
-                    </p>
-                </div>
+                    </p> */}
+                {/* </div> */}
         </div>
     </li>
 )
 }
- 
-export default Home;
+   export default Home;
