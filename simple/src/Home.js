@@ -3,30 +3,39 @@ import React, { useState } from "react"
 
 function Home({food}){
 
-// function handleLikes({
+    const [info, setInfo]= useState (true)
+    const [foodLike,setFoodLike]=useState(food)
 
-// })
+    function handleClick(){
+        setInfo(!info)
+    }
 
-// functionDislikes (){
+    function handleLikes(){
+        const likes={...foodLike}
+        likes.upvotes= likes.upvotes+1 
+        setFoodLike(likes)
+    }
 
-// }
-// function handleClick(){
-
-// }
-
-
-
-console.log (food,"second")
-
+    function handleDislikes(){
+        const likes={...foodLike}
+        likes.upvotes= likes.downvotes+1 
+        setFoodLike(likes)
+    }
 
 return(
-    <ul className="cards__items">
-        <div className="card">
-<h2>{food.name}</h2>
-<img width= '200px' src={food.image} />
+    <div className= "card__content"> 
+            <img width='200px'
+              src ={food.image}
+              alt={food.name}
+              onClick={handleClick}
+              />
+             <p>{food.calories}</p>
+
+                <p className="card__text">{info? skinny.ingredients : skinny.instructions}</p>
+                    <p>{skinny.calories}</p>
+                        <span>Give us a like or dislike if you tried out the meal</span>
+                        <button onClick={handleLikes}></button> <button  onClick={handleDislikes}></button>
         </div>
-    </ul>
 )
 }
- 
 export default Home;

@@ -1,14 +1,17 @@
-import React, { useState, useEffect, route} from "react"
+import { useState, useEffect} from "react"
+import ReactDOM from 'react-dom'
+import Home from './Home'
+import About from './About'
+import Under500Cals from "./Under500Cals"
+import { Route, Switch } from "react-router-dom"
 // import logo from './logo.svg';
 // import './App.css';
-import Header from "./Header"
-import RecipeContainer from "./RecipeContainer"
-
+import Header from "./NavBar"
 
 function App() {
   const [foods, setFoods] = useState([])
-  const [skinnys, setSkinnys] = useState([])
-
+  console.log(foods)
+  // const [skinnys, setSkinnys] = useState([])
 
   useEffect(() => {
     fetch("http://localhost:3000/recipe")
@@ -22,26 +25,30 @@ function App() {
 
   console.log(foods,"first")
   console.log(skinnys,"first")
+ 
+ return (
+    <div>
+      <NavBar />
+      <Switch>
 
-  ReactDOM.render(
-<BrowserRouter>
-<Switch>
-      <Route exact path = "/">
-      <Home foods={foods}/>
-      </Route>
+        <Route exact path="/home">
+          <Home />
+        </Route>
 
-      <Route path ="/about">
-      <About />
-      </Route>
+        <Route exact path="/about">
+          <About />
+        </Route>
 
-      <Route path ="/under500Cals">
-      <Under500Cals />
-      </Route >
-  </Switch>
-  </BrowserRouter>
- document.getElementById('root')
- );
+        <Route exact path="/under500Cals">
+          <Under500Cals />
+        </Route>
+
+        <Route exact path ="/">
+        <Home />
+        </Route>
+      </Switch>
+    </div>
   );
+ }
 
-
-export default App;
+export default App
