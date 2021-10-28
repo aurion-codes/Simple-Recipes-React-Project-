@@ -1,4 +1,4 @@
-function About ({}){
+function About (){
     return(
         <>
             <h1>Simple Recipes </h1>

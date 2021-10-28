@@ -1,12 +1,14 @@
 import React, { useState } from "react"
 // import RecipeList from "./RecipeList";
 
-const [info, setInfo]= useState (true)
+
+
+function Under500Cals({skinny}){
+    console.log(skinny,"third")
+
+    const [info, setInfo]= useState (true)
 const [foodLike,setFoodLike]=useState(skinny)
 
-
-function Home({skinny}){
-    console.log(food,"third")
 
     function handleClick(){
         setInfo(!info)
@@ -24,7 +26,7 @@ function Home({skinny}){
         setFoodLike(likes)
     }
 return(
-        <div className= "card__content"> >
+        <div className= "card__content"> 
             <img width='200px'
               src ={skinny.image}
               alt={skinny.name}
@@ -40,5 +42,5 @@ return(
    
 )
 }
-   export default Home;
+   export default Under500Cals;
 
