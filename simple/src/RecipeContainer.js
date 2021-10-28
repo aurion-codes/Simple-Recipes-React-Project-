@@ -3,12 +3,13 @@ import RecipeCard from './RecipeCard'
 
 
 function RecipeContainer({foods}){
+ 
     return(
-     <div>
-        <ul className="cards">
+     
+        <div className="wrapper">
             {foods.map( food => <RecipeCard  key={food.id}  food={food}/>)}
-        </ul>
-    </div>
+        
+      </div>
   );
 }
 

@@ -1,9 +1,11 @@
 import { useState, useEffect} from "react"
 import About from './About'
 import { Route, Switch } from "react-router-dom"
-
+import './App.css'
 import NavBar from "./NavBar"
 import RecipeContainer from "./RecipeContainer"
+
+
 
 function App() {
   const [entrees, setEntrees] = useState([])
