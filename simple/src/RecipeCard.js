@@ -29,10 +29,10 @@ function RecipeCard ({food}){
                 alt={food.name}
                 onClick={handleClick}
                 />
-                <p>{food.calories}</p>
+                <p>Calories {food.calories}</p>
 
                     <p className="card__text">{info? food.ingredients : food.instructions}</p>
-                        <p>{food.calories}</p>
+                        {/* <p>{food.calories}</p> */}
                             <span>Give us a like or dislike if you tried out the meal</span>
                             <button onClick={handleLikes}></button> <button  onClick={handleDislikes}></button>
             </div>
