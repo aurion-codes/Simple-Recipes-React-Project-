@@ -1,10 +1,7 @@
 import { useState, useEffect} from "react"
-import Home from './RecipeCard'
 import About from './About'
-import Under500Cals from "./Under500Cals"
 import { Route, Switch } from "react-router-dom"
-// import logo from './logo.svg';
-// import './App.css';
+
 import NavBar from "./NavBar"
 import RecipeContainer from "./RecipeContainer"
 
