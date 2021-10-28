@@ -19,7 +19,7 @@ function NavBar(){
 
       Home
       <NavLink
-        to="/home"
+        to="/"
         exact
         style={linkStyles}
         activeStyle={{
@@ -28,9 +28,9 @@ function NavBar(){
         >
         </NavLink>
         
-        About
+        Entrees
       <NavLink
-        to="/about"
+        to="/entrees"
         exact
         style={linkStyles}
         activeStyle={{
@@ -41,7 +41,7 @@ function NavBar(){
 
       Under500Cals
       <NavLink
-        to="/Under500Cals"
+        to="/under500Cals"
         exact
         style={linkStyles}
         activeStyle={{

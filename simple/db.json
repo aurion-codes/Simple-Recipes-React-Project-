@@ -1,21 +1,22 @@
 {
-  "recipe": [
+  "foods": {
+    "entrees": [
     {
       "id": 1,
-      "name": "Baked Ziti",
+      "name": "Baked Lasagena",
       "ingredients": "For the meat sauce 3 pounds ground chuck 3 cloves garlic,  1 large onion chopped 1 tablespoon basil1 tablespoon oregano 1 tablespoon salt 1 12-ounce can tomato paste 12 ounces water To assemble lasagna Mozzarella and provolone cheese 6 lasagna noodles",
       "instructions":" For the meat sauce In a heavy skillet, slowly brown ground chuck. Spoon off fat. Add remaining ingredients. Simmer one hour, stirring occasionally.For the cheese filling: Mix together cottage cheese paramesan, cheese parsley and eggs. To assemble lasagna: Preheat oven to 350 F. Cook lasagna noodles according to package directions. Drain. Grease a 9-by-13-inch baking dish. Place half the cooked noodles in baking dish. Spread with half the cheese filling and layer with sliced provolone cheese.Add half the meat sauce.Repeat layers topping with mozzarella to cover entirely. Top with sliced pepperoni. Bake for 1 hour. Let stand 10 minutes before serving.",
       "image": "https://www.jocooks.com/wp-content/uploads/2019/05/baked-ziti-1-15-768x576.jpg",
       "upvotes": 44,
       "downvotes":5,
-      "calories": 540
+      "calories": 700
     },
 
     {
       "id":2,
       "name":"Baked Ziti",
       "ingredients": "1/2 lb Italian sausage 16 ounces ziti  2 28 ounce cans crushed tomatoes2 TBS tomato paste  1/2 cup merlot optional 1 bell pepper finely diced 1 onion finely diced2 garlic cloves minced  1 tsp granulated sugar 3 fresh basil leaves chiffonade 1 TBS oregano  1 tsp fennel seeds 15 oz ricotta cheese 2 cups mozzarella cheese shredded  1 cup parmesan cheese shredded or grated Salt and pepper to taste",
-     "instructions":"Preheat oven to 375°F Brown ground beef and sausage  Drain off the fat Add in the onions, bell peppers and garlic and stir for 3 mins.Pour in the merlot.Simmer for 2 minutes. Add the crushed tomatoes, tomato paste, sugar, oregano, fennel seeds, and half of the basil.Salt and pepper to tasteStir, reduce the heat to low, and simmer for 1 1/2 hours.Prepare ziti according to package instructionsDrain and mix with the sauce. Spray a 9×13 baking dish or lasagna pan with nonstick cooking spray.Pour half of the ziti and sauce mixture into the pan.Add half of the ricotta on top of the pasta and spread it out evenly.In a separate bowl, toss the mozzarella and parmesan together. Sprinkle half of the cheese mixture on top of the pasta. Pour in the rest of the pasta/sauce mixThen, add the rest of the ricotta in dollops. Sprinkle the remain cheese on top evenly.Bake, uncovered, for 40 minutes.Garnish with the remaining chiffonade basil. Allow it to cool for at least 20 minutes before serving.",
+    "instructions":"Preheat oven to 375°F Brown ground beef and sausage  Drain off the fat Add in the onions, bell peppers and garlic and stir for 3 mins.Pour in the merlot.Simmer for 2 minutes. Add the crushed tomatoes, tomato paste, sugar, oregano, fennel seeds, and half of the basil.Salt and pepper to tasteStir, reduce the heat to low, and simmer for 1 1/2 hours.Prepare ziti according to package instructionsDrain and mix with the sauce. Spray a 9×13 baking dish or lasagna pan with nonstick cooking spray.Pour half of the ziti and sauce mixture into the pan.Add half of the ricotta on top of the pasta and spread it out evenly.In a separate bowl, toss the mozzarella and parmesan together. Sprinkle half of the cheese mixture on top of the pasta. Pour in the rest of the pasta/sauce mixThen, add the rest of the ricotta in dollops. Sprinkle the remain cheese on top evenly.Bake, uncovered, for 40 minutes.Garnish with the remaining chiffonade basil. Allow it to cool for at least 20 minutes before serving.",
       "image":"https://i1.wp.com/coopcancook.com/wp-content/uploads/2021/09/bmc_5336.jpg?resize=1536%2C1077&ssl=1",
       "upvotes": 88,
       "downvotes":5,
@@ -30,7 +31,7 @@
       "image":"https://i0.wp.com/coopcancook.com/wp-content/uploads/2021/06/bmc_3780.jpg?resize=480%2C640&ssl=1",
       "upvotes": 10,
       "downvotes":2,
-      "calories": 430
+      "calories": 600
       
     },
 
@@ -78,7 +79,7 @@
       "calories":1200
     }],
 
-  "skinny": [
+  "skinnys": [
     {
       "id":8,
       "name":"Crawfish Balls",
@@ -164,6 +165,7 @@
       "calories":"350"
     }
   ]
+}
 }
 
 	
