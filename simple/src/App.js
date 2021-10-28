@@ -9,20 +9,23 @@ import NavBar from "./NavBar"
 
 function App() {
   const [foods, setFoods] = useState([])
-  const [skinnys, setSkinnys] = useState([])
+  console.log(foods)
+
+  // const [skinnys, setSkinnys] = useState([])
 
   useEffect(() => {
     fetch("http://localhost:3000/recipe")
     .then(response => response.json())
     .then(data => setFoods(data))
-
-    console.log(foods,'first')
-
-
-    fetch("http://localhost:3000/skinny")
-    .then(response =>response.json())
-    .then(data => setSkinnys(data))
   },[])
+
+    // console.log(foods,'first')
+
+
+    // fetch("http://localhost:3000/skinny")
+    // .then(response =>response.json())
+    // .then(data => setSkinnys(data))
+  // },[])
 
  
  
@@ -36,11 +39,11 @@ function App() {
         </Route>
 
         <Route exact path="/under500Cals">
-          <Under500Cals />
+        {foods.map(food => <Under500Cals key={food.id} food={food} />)}
         </Route>
 
         <Route exact path ="/">
-          <Home />
+          {foods.map(food => <Home key={food.id} food={food} />)}
         </Route>
 
       </Switch>
