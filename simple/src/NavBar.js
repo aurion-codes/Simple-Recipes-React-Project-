@@ -18,14 +18,14 @@ function NavBar(){
     <div >
 
  
-      <NavLink className="nav"
+      <NavLink 
 
           to="/"
         exact
         style={linkStyles}
         activeStyle={{
-          background: "black",
-        }}
+          background: "green",
+        }} 
         >About
         </NavLink>
         
@@ -36,7 +36,7 @@ function NavBar(){
         exact
         style={linkStyles}
         activeStyle={{
-          background: "black",
+          background: "yellow",
         }}
       > Recipes
       </NavLink>      
