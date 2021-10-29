@@ -5,49 +5,63 @@ import { NavLink } from "react-router-dom"
 
 const linkStyles = {
   display: "inline-block",
-  width: "50px",
-  padding: "12px",
-  margin: "0 6px 6px",
-  background: "blue",
-  textDecoration: "none",
-  color: "white",
+  // width: "30px",
+  padding: "15px",
+  margin: "5px",
+  background: "pink",
+  textdecoration: "none",
+  
 };
 
 function NavBar(){
   return(
     <div >
 
-      Home
-      <NavLink
-        to="/"
+ 
+      <NavLink className="nav"
+
+          to="/"
         exact
         style={linkStyles}
         activeStyle={{
-          background: "darkblue",
+          background: "black",
         }}
-        >
+        >About
         </NavLink>
         
-        Entrees
-      <NavLink
+        
+      <NavLink className="nav"
+      
         to="/entrees"
         exact
         style={linkStyles}
         activeStyle={{
-          background: "darkblue",
+          background: "black",
         }}
-      >
-      </NavLink>
+      > Recipes
+      </NavLink>      
 
-      Under500Cals
-      <NavLink
+      {/* Under500Cals */}
+      <NavLink className="nav"
+       Under500Cals
         to="/under500Cals"
         exact
         style={linkStyles}
         activeStyle={{
-          background: "darkblue",
+          background: "black",
         }}
-      >
+      >Under 500 Cals
+      </NavLink>
+
+      <NavLink className="nav"
+          Add Recipe
+        to="/Form"
+        exact
+        style={linkStyles}
+        acticeSyle={{
+          background:"black"
+        }}
+        >Add Recipe
       </NavLink>
 
     </div>

@@ -5,7 +5,7 @@ import styled from 'styled-components'
 function RecipeCard ({food}){
 
     const [info, setInfo]= useState (true)
-    const [foodLike,setFoodLike]=useState([food])
+    const [foodLike,setFoodLike]=useState(food)
 
     function handleClick(){
         setInfo(!info)
@@ -15,12 +15,16 @@ function RecipeCard ({food}){
         const likes={...foodLike}
         likes.upvotes= likes.upvotes+1 
         setFoodLike(likes)
+        console.log(likes)
+    
     }
 
     function handleDislikes(){
         const likes={...foodLike}
-        likes.upvotes= likes.downvotes+1 
+        likes.downvotes= likes.downvotes+1 
         setFoodLike(likes)
+
+        
     }
 
     return(
@@ -39,7 +43,8 @@ function RecipeCard ({food}){
             </div>
                     {/* <p>{food.calories}</p> */}
                             <span>Give us a like or dislike if you tried out the meal</span>
-                            <button className="card__btn" onClick={handleLikes}>👍</button> <button onClick={handleDislikes}>👎</button>
+            
+                            <button className="card__btn" onClick={() => handleLikes()}>{foodLike.upvotes}👍</button> <button onClick={() => handleDislikes()}>{foodLike.downvotes}👎</button>
                             </div>
             </div>
             
